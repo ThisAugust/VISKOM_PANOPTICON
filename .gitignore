@@ -1,0 +1,12 @@
+# Ignore Markdown
+*.md
+
+# Ignore Python files
+*.py
+
+# Ignore JPG images
+*.jpg
+*.jpeg
+
+# Ignore cache
+__pycache__/

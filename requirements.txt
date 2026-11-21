@@ -1,0 +1,6 @@
+# Keep Kaggle's existing matched CUDA torch/torchvision installations.
+ultralytics==8.3.221
+albumentations==2.0.8
+pycocotools==2.0.10
+roboflow==1.2.11
+PyYAML==6.0.2
