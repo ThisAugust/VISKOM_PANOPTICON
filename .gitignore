@@ -1,5 +1,11 @@
 # Ignore Markdown
-*.md
+verification.md
+AI_USAGE.md
+VERIFICATION.md
+README.md
+
+
+
 
 # Ignore Python files
 *.py
