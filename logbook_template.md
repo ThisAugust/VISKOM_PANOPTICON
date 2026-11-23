@@ -10,4 +10,6 @@ MaskRcnn: two stage, harusnya yg terbaik karena ada... well two stage.
 |x/11/2026|anotasi | biar model ngerti
 | 21/11/2026| training yolo| training model|
 |22/11/2026| hasil training yolo again| 15 epoch jelek, ternyata masih bisa improve.|
+|23/11/2026|training done| 30 epoch|
+|23/11/2026|anotasi done| abis lanjutin|
 
