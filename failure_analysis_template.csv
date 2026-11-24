@@ -1,6 +1,6 @@
-photo_filename,condition_difficulty,model,augmentation,observed_failure,mechanism_hypothesis,controlled_test,baseline_evidence,intervention_evidence,result_and_limitations
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+photo_filename,condition_difficulty,model,augmentation,observed_failure
+picture/normal/maskrcnn_custom/labeled_comparisons/6_IMG_20260618_075140_jpg.rf.SVUoJnS5mKxu5DoXM8Tj_comparison.jpg, normal,maskrcnn,custom,deteksi kursi sebagai "stairs" dan wall-others-merged tidak deteksi light
+picture/normal/maskrcnn_custom/labeled_comparisons/12_IMG_20261116_141938_jpg.rf.L9TNaBkgwsIOiCQ1dgWv_comparison.jpg,normal,maskrcnn,custom,deteksi wall-others-merged tetapi bukan wall.
+C:\Sem_5\Visualisasi_Informasi\Panoptic_Vision\VISKOM_PANOPTICON\picture\hard\maskrcnn_default\labeled_comparisons\0_IMG_20261116_105630_jpg.rf.INi8QuxxqOcyeLDYp7qT_comparison.jpg,hard,maskrcnn,default, tidak bisa  occlusion.
+picture\hard\maskrcnn_none\labeled_comparisons\8_IMG_20261116_105614_jpg.rf.s2ZJq1whxmfjUyGG00f6_comparison.jpg,hard,maskrcnn,none, wall-other-merged... sering terconfused dengan wall mungkin karena dari anotasinya juga salah.
+picture\normal\maskrcnn_custom\labeled_comparisons\34_IMG_20260622_115006_jpg.rf.j7dvalxz7guB3SqHfxRd_comparison.jpg,normal,maskrcnn,custom,sepertinya model bisa deteksi... dengan yakin terkait hal-hal yang ada "wall stuff" atau floor stuff ini bisa terjadi karena imbalance pada class dari training,

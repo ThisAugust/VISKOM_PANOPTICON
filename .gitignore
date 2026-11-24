@@ -1,11 +1,11 @@
 # Ignore Markdown
 verification.md
-AI_USAGE.md
 VERIFICATION.md
 README.md
 
-
-
+failure/
+models/ 
+picture/
 
 # Ignore Python files
 *.py
